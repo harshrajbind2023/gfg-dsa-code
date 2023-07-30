@@ -37,9 +37,10 @@ bool prime(int n)
         {
             return false;
         }
-        return true;
+       
         /* code */
     }
+     return true;
 }
 
 int main()
