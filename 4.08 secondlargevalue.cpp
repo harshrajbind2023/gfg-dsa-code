@@ -30,7 +30,7 @@ int secondLargest(int arr[], int n)
             else if (arr[i] > arr[res])
             {
                 return i;
-                /* code */
+               
             }
         }
     }

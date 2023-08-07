@@ -11,7 +11,8 @@ void  reverse(int arr[],int n){
         arr[high]=temp;   
          low++;
          high--;
-        /* code */
+
+        
     }
     
 }
