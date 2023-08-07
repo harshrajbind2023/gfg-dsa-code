@@ -50,5 +50,5 @@ int main()
     {
         cin >> arr[i];
     }
-    cout << reverse(arr, n);
+    cout << getlargest(arr, n);
 }
